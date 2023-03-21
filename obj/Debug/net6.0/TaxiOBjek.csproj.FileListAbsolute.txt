@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Downloads\Reyhan Praktikum\TaxiOBjek\TaxiOBjek\obj\Debug\net6.0\TaxiOBjek.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Reyhan Praktikum\TaxiOBjek\TaxiOBjek\obj\Debug\net6.0\TaxiOBjek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Reyhan Praktikum\TaxiOBjek\TaxiOBjek\obj\Debug\net6.0\TaxiOBjek.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Reyhan Praktikum\TaxiOBjek\TaxiOBjek\obj\Debug\net6.0\TaxiOBjek.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Reyhan Praktikum\TaxiOBjek\TaxiOBjek\obj\Debug\net6.0\TaxiOBjek.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Reyhan Praktikum\TaxiOBjek\TaxiOBjek\bin\Debug\net6.0\TaxiOBjek.exe
+C:\Users\LENOVO\Downloads\Reyhan Praktikum\TaxiOBjek\TaxiOBjek\bin\Debug\net6.0\TaxiOBjek.deps.json
+C:\Users\LENOVO\Downloads\Reyhan Praktikum\TaxiOBjek\TaxiOBjek\bin\Debug\net6.0\TaxiOBjek.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Reyhan Praktikum\TaxiOBjek\TaxiOBjek\bin\Debug\net6.0\TaxiOBjek.dll
+C:\Users\LENOVO\Downloads\Reyhan Praktikum\TaxiOBjek\TaxiOBjek\bin\Debug\net6.0\TaxiOBjek.pdb
+C:\Users\LENOVO\Downloads\Reyhan Praktikum\TaxiOBjek\TaxiOBjek\obj\Debug\net6.0\TaxiOBjek.dll
+C:\Users\LENOVO\Downloads\Reyhan Praktikum\TaxiOBjek\TaxiOBjek\obj\Debug\net6.0\refint\TaxiOBjek.dll
+C:\Users\LENOVO\Downloads\Reyhan Praktikum\TaxiOBjek\TaxiOBjek\obj\Debug\net6.0\TaxiOBjek.pdb
+C:\Users\LENOVO\Downloads\Reyhan Praktikum\TaxiOBjek\TaxiOBjek\obj\Debug\net6.0\TaxiOBjek.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Reyhan Praktikum\TaxiOBjek\TaxiOBjek\obj\Debug\net6.0\ref\TaxiOBjek.dll
